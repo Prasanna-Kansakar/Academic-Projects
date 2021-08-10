@@ -1,0 +1,12 @@
+1,Mechanical eagle z-88,Keyboard,4000,Low,1 Year,15 % Off on Esewa
+2,ROG Maximus XIII,Motherboard,25000,High,2 Years,10% Off on FonePay /15 % Off on Esewa /3 % Off on Khalti
+3,Intel core i9-9900k,CPU,55000,High,2 Years,10% Off on FonePay /15 % Off on Esewa
+4,Razer chroma,Keyboard,7000,Low,1 Year,none
+5,Zowie Ec1-A,Mouse,12000,Low,2 Years,10% Off on FonePay
+6,Logitech G-802,Mouse,6000,Low,4 Years,none
+7,Hyperx alloy fps,Keyboard,10000,Low,2 Years,15 % Off on Esewa
+8,Intel core i7,CPU,30000,High,2 Years,15 % Off on Esewa
+9,Asus ROG Strix Z390-E,Motherboard,35000,High,3 Years,none
+10,Razer Deathadder,Mouse,3000,Low,1 Year,3 % Off on Khalti
+11,Zowie Ec2-A,Mouse,11000,Low,1 Year,none
+12,Nvidia RTX 2080Ti,GPU,225600,High,3 Years,10% Off on FonePay
